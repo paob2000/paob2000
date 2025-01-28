@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola a todos, soy Paulo Ossa, bienvenidos a este espacio lleno de Ciencia de Datos, Growth Hacking, Programación, Inteligencia Artificial, y mucho mas!!! 👋
 
-<!--
-**paob2000/paob2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
 
-Here are some ideas to get you started:
+• 🚀 Soy Analista de Datos y Growth Hacker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 📊 Estudié Ingeniería Informática, me especialicé en Ecommerce Multicanal
+
+• 📖 Hoy en día me estoy dedicando de lleno a Omnicanalidad, Ciencia de Datos, Machine Learning y Growth Hacking
+
+• 🤝 Busco encontrar oportunidades de negocio con grandes empresas en España y Latinoamérica
+
+• 💬 Preguntame acerca de Ecommerce, Ciencia de Datos, Inteligencia artificial generativa y predictiva y sobre todo, de Growth Hacking
+
+• 📫 Contáctame... **paob2000@hotmail.com**  </h3>
+
+
+
