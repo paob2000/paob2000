@@ -26,7 +26,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/121232118/original/308d5d765c8fed050effbe92d38fc44554464a09/html-css-javascript-json-and-jquery-projects.jpg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
